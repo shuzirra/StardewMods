@@ -21,11 +21,11 @@
     "label.automate-options": "Automate mod",
     "label.automate-store": "Tegyen tárgyakat ebbe a ládába",
     "label.automate-store-first": "Először ebbe a ládába tegyen tárgyakat",
-    "label.automate-store-disabled": "Never put items in this chest", // TODO
+    "label.automate-store-disabled": "Soha ne tegyen ebbe a ládába tárgyakat",
     "label.automate-take": "Vegyen ki tárgyakat ebből a ládából",
     "label.automate-take-first": "Először ebből a ládából vegyen ki tárgyakat",
-    "label.automate-take-disabled": "Never take items from this chest", // TODO
-    "label.automate-prevent-remove-stacks": "Avoid removing the last item in a stack", // TODO
+    "label.automate-take-disabled": "Soha ne vegyen ki ebből a ladából tárgyakat",
+    "label.automate-prevent-remove-stacks": "Az utolsó tárgyat ne vegye ki a kupacokból",
 
     // button labels
     "button.edit-chest": "Láda szerkesztése",
